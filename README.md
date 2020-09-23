@@ -74,10 +74,10 @@ https://winaero.com/blog/delete-user-profile-windows-10/
 
 Cliquer sur le boutton windows, dans la liste des programmes, vous trouverez le dossier d'installation de postgres, à l'intérieur faites un clique sur le fichier SQL shell.
 
-![shell](Capture d’écran (21).png)
+
+![shell](shell.png)
 
 Dans la console qui s'affichera, laisser les infos par défaut.
-![shell](shell.png)
 
 
 ![shell_log](shell_log.png)
