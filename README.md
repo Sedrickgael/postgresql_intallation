@@ -61,3 +61,10 @@ net localgroup administrateurs postgres /delete
 
 Source:
 https://dba.stackexchange.com/questions/10241/postgresql-the-database-cluster-initialization-failed?answertab=active#
+
+```
+vous pouvez aussi supprimer l'utilisateur postgres de votre pc en suivant ce guide
+https://winaero.com/blog/delete-user-profile-windows-10/
+```
+
+https://winaero.com/blog/delete-user-profile-windows-10/
