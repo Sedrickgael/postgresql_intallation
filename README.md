@@ -77,8 +77,8 @@ Cliquer sur le boutton windows, dans la liste des programmes, vous trouverez le 
 ![shell](Capture d’écran (21).png)
 
 Dans la console qui s'affichera, laisser les infos par défaut.
-![shell](Capture d’écran (22).png)
+![shell](shell.png)
 
 
-![shell](Capture d’écran (21).png)
+![shell_log](shell_log.png)
 
