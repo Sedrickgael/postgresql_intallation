@@ -1,5 +1,6 @@
 # postgresql_intallation
 
+![Test Image 6](xpostgresql.jpg.pagespeed.ic.82ZZ05AnGg.jpg)
 
 ```
 L'installation de PostgreSQL sur un système Windows, n'est pas forcement aisée. Ce guide vous aidera à contourné toutes difficultés.
