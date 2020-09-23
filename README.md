@@ -1,9 +1,11 @@
 # postgresql_intallation
+
+![Philadelphia's Magic Gardens. This place was so cool!](xpostgresql.jpg.pagespeed.ic.82ZZ05AnGg.jpg "Philadelphia's Magic Gardens")
 L'installation de PostgreSQL sur un système Windows, n'est pas forcement aisée. Ce guide vous aidera à contourné toutes difficultés.
 
 
 1. Désinstaller PostgreSQL  (si vous avez fait une installation qui a échoué)
-## Ouvrir l'invite de commande puis excecuter 
+#### Ouvrir l'invite de commande puis excecuter 
 2. Supprimer l'utilisateur postgres s'il existe 
 ```
 net user postgres /delete   
