@@ -1,6 +1,6 @@
 # postgresql_intallation
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
-![Test Image 6](xpostgresql.jpg.pagespeed.ic.82ZZ05AnGg.jpg)
+![postgreSQL](xpostgresql.jpg.pagespeed.ic.82ZZ05AnGg.jpg)
 
 ```
 L'installation de PostgreSQL sur un système Windows, n'est pas forcement aisée. Ce guide vous aidera à contourné toutes difficultés.
@@ -68,3 +68,17 @@ https://winaero.com/blog/delete-user-profile-windows-10/
 ```
 
 https://winaero.com/blog/delete-user-profile-windows-10/
+
+
+##### Vérifier si postgres est installé
+
+Cliquer sur le boutton windows, dans la liste des programmes, vous trouverez le dossier d'installation de postgres, à l'intérieur faites un clique sur le fichier SQL shell.
+
+![shell](Capture d’écran (21).png)
+
+Dans la console qui s'affichera, laisser les infos par défaut.
+![shell](Capture d’écran (22).png)
+
+
+![shell](Capture d’écran (21).png)
+
